@@ -1,0 +1,380 @@
+[
+	{
+		"harga" : 5,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "bening",
+		"bentukberas" : "berassuper",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 1
+	},
+	{
+		"harga" : 7,
+		"wangi_beras" : "harum",
+		"warna" : "putih",
+		"bentukberas" : "berassuper",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 1
+	},
+	{
+		"harga" : 10,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "putih",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 1
+	},
+	{
+		"harga" : 7,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "kekuningan",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 1
+	},
+	{
+		"harga" : 6,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "kekuningan",
+		"bentukberas" : "berassuper",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 1
+	},
+	{
+		"harga" : 10,
+		"wangi_beras" : "bau",
+		"warna" : "putih",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "tidak_bersih",
+		"beraskepalaatus" : 0
+	},
+	{
+		"harga" : 5,
+		"wangi_beras" : "harum",
+		"warna" : "putih",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "tidak_bersih",
+		"beraskepalaatus" : 0
+	},
+	{
+		"harga" : 6,
+		"wangi_beras" : "harum",
+		"warna" : "bening",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 1
+	},
+	{
+		"harga" : 6,
+		"wangi_beras" : "bau",
+		"warna" : "bening",
+		"bentukberas" : "berassuper",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 1
+	},
+	{
+		"harga" : 6,
+		"wangi_beras" : "bau",
+		"warna" : "bening",
+		"bentukberas" : "jitai",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 0
+	},
+	{
+		"harga" : 6,
+		"wangi_beras" : "bau",
+		"warna" : "bening",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "tidak_bersih",
+		"beraskepalaatus" : 0
+	},
+	{
+		"harga" : 5,
+		"wangi_beras" : "bau",
+		"warna" : "bening",
+		"bentukberas" : "jitai",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 0
+	},
+	{
+		"harga" : 5,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "putih",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 1
+	},
+	{
+		"harga" : 5,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "bening",
+		"bentukberas" : "jitai",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 1
+	},
+	{
+		"harga" : 5,
+		"wangi_beras" : "bau",
+		"warna" : "kekuningan",
+		"bentukberas" : "jitai",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 0
+	},
+	{
+		"harga" : 8,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "bening",
+		"bentukberas" : "jitai",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 0
+	},
+	{
+		"harga" : 6,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "putih",
+		"bentukberas" : "jitai",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 1
+	},
+	{
+		"harga" : 5,
+		"wangi_beras" : "bau",
+		"warna" : "kekuningan",
+		"bentukberas" : "jitai",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 0
+	},
+	{
+		"harga" : 5,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "bening",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 1
+	},
+	{
+		"harga" : 7,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "bening",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "tidak_bersih",
+		"beraskepalaatus" : 0
+	},
+	{
+		"harga" : 6,
+		"wangi_beras" : "harum",
+		"warna" : "putih",
+		"bentukberas" : "berassuper",
+		"kebersihan" : "tidak_bersih",
+		"beraskepalaatus" : 0
+	},
+	{
+		"harga" : 8,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "bening",
+		"bentukberas" : "berassuper",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 0
+	},
+	{
+		"harga" : 5,
+		"wangi_beras" : "bau",
+		"warna" : "putih",
+		"bentukberas" : "jitai",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 0
+	},
+	{
+		"harga" : 7,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "bening",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 1
+	},
+	{
+		"harga" : 7,
+		"wangi_beras" : "bau",
+		"warna" : "kekuningan",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "tidak_bersih",
+		"beraskepalaatus" : 0
+	},
+
+
+	{
+		"harga" : 8,
+		"wangi_beras" : "bau",
+		"warna" : "bening",
+		"bentukberas" : "berassuper",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 1
+	},
+	{
+		"harga" : 6,
+		"wangi_beras" : "bau",
+		"warna" : "putih",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "tidak_bersih",
+		"beraskepalaatus" : 0
+	},
+	{
+		"harga" : 7,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "putih",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "bersih",
+		"beraskepalaatus" : 1
+	},
+	{
+		"harga" : 7,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "putih",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "tidak_bersih",
+		"beraskepalaatus" : 0
+	},
+	{
+		"harga" : 8,
+		"wangi_beras" : "bau",
+		"warna" : "putih",
+		"bentukberas" : "jitai",
+		"kebersihan" : "tidak_bersih",
+		"beraskepalaatus": 0
+	},
+	{
+		"harga" : 5,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "putih",
+		"bentukberas" : "jitai",
+		"kebersihan" : "bersih",
+		"beraskepalaatus": 1
+	},
+	{
+		"harga" : 6,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "bening",
+		"bentukberas" : "berassuper",
+		"kebersihan" : "bersih",
+		"beraskepalaatus": 1
+	},
+	{
+		"harga" : 7,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "bening",
+		"bentukberas" : "berassuper",
+		"kebersihan" : "bersih",
+		"beraskepalaatus": 1
+	},
+	{
+		"harga" : 8,
+		"wangi_beras" : "bau",
+		"warna" : "kekuningan",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "bersih",
+		"beraskepalaatus": 0
+	},
+	{
+		"harga" : 9,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "putih",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "tidak_bersih",
+		"beraskepalaatus": 0
+	},
+	{
+		"harga" : 5,
+		"wangi_beras" : "harum",
+		"warna" : "bening",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "bersih",
+		"beraskepalaatus": 1
+	},
+	{
+		"harga" : 10,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "bening",
+		"bentukberas" : "jitai",
+		"kebersihan" : "bersih",
+		"beraskepalaatus": 0
+	},
+	{
+		"harga" : 7,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "bening",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "bersih",
+		"beraskepalaatus": 1
+	},
+	{
+		"harga" : 6,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "bening",
+		"bentukberas" : "berassuper",
+		"kebersihan" : "bersih",
+		"beraskepalaatus": 1
+	},
+	{
+		"harga" : 9,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "kekuningan",
+		"bentukberas" : "berassuper",
+		"kebersihan" : "bersih",
+		"beraskepalaatus": 0
+	},
+	{
+		"harga" : 8,
+		"wangi_beras" : "bau",
+		"warna" : "bening",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "bersih",
+		"beraskepalaatus": 0
+	},
+	{
+		"harga" : 7,
+		"wangi_beras" : "bau",
+		"warna" : "kekuningan",
+		"bentukberas" : "berassuper",
+		"kebersihan" : "tidak_bersih",
+		"beraskepalaatus": 0
+	},
+	{
+		"harga" : 5,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "bening",
+		"bentukberas" : "jitai",
+		"kebersihan" : "bersih",
+		"beraskepalaatus": 1
+	},
+	{
+		"harga" : 6,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "bening",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "bersih",
+		"beraskepalaatus": 1
+	},
+	{
+		"harga" : 5,
+		"wangi_beras" : "tidakberbau",
+		"warna" : "bening",
+		"bentukberas" : "beraskepala",
+		"kebersihan" : "tidak_bersih",
+		"beraskepalaatus": 1
+	},
+    {
+		"harga" : 9,
+		"wangi_beras" : "bau",
+		"warna" : "putih",
+		"bentukberas" : "berassuper",
+		"kebersihan" : "tidak_bersih",
+		"beraskepalaatus": 0
+	},
+	{
+		"harga" : 10,
+		"wangi_beras" : "bau",
+		"warna" : "kekuningan",
+		"bentukberas" : "berassuper",
+		"kebersihan" : "tidak_bersih",
+		"beraskepalaatus": 0
+	}
+]
